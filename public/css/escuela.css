@@ -1,0 +1,106 @@
+/*    Fuente  ------------------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+/*   CONTENIDO  --------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/*    Estilos en vista Otros/Provincia/index  --------------------------------------------------------*/
+
+
+        #contedorProvincias{
+            padding-right: 10px;
+            padding-left: 10px;
+            margin-right: auto;
+            margin-left: auto;
+            padding-top: 20px;
+        }
+
+        #container_links_provincia{
+     /*       background: #ff8000;*/
+            /*display: inline;*/
+            width: 160px;
+         
+            float: left;
+        }
+
+    /*    #botonSalir {
+
+ 
+         position: relative;  
+            right: 0px;
+            top: 0px;
+            margin-right: auto;
+             margin-left: auto;
+        }
+*/
+        #agregarProvincia {
+            position: absolute;
+            top: 80px;
+            right: 540px;
+        }
+
+        #footer_index {
+            background-color: #f5f5f5;
+            width: 100%;
+            height: 50px;
+            bottom: -40px;  
+            margin:0 auto auto auto;
+            position: relative;
+            border-top: 1px ;
+        }
+
+/*    Estilos en vista Resource/welcome  --------------------------------------------------------*/
+
+
+        #welcome_full_class {
+        background: url(http://staticf5a.diaadia.info/sites/default/files/nota_periodistica/Libro_.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        }
+        
+
+
+
+        #navbar_default_welcome{
+            padding-right: 10px;
+            padding-left: 10px;
+            margin-right: 0px;
+            margin-left: 0px;
+        }
+        #container_fluid_welcome {
+            padding-right: 10px;
+            padding-left: 10px;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+
+        #la_e{ 
+            padding-right: 10px;
+            padding-left: 1px;
+            margin-right: 10px;
+            margin-left: 1px;
+}
+    
+        #jumbo{
+            background: url(http://images.123hdwallpapers.com/20150514/blurry-background-1920x1200.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+    }
+
+    #footer_welcome {
+            background-color: #f5f5f5;      
+            width: 100%;
+            height: 50px;
+            bottom: 0px;
+            margin:0 auto auto auto;
+            position: relative;
+            border-top: 1px ;
+    }
+
+
+
+/*     EXTRAS -------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+   
+ 
